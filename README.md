@@ -3,4 +3,4 @@
 - Linear regresion model
 - Multiple linear regression model
 - Polynomial regression model
-- Non linear regression analysis
+- Non-linear regression analysis
