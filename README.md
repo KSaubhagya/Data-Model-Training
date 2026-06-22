@@ -1,4 +1,4 @@
-# Data Model-Training with google colab ( Jupitor Notebook, Google Colab )
+# Data Model-Training with google colab ( Jupitor Notebook, Google Colab )  
  
 - Linear regresion model
 - Multiple linear regression model
