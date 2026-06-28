@@ -2,5 +2,5 @@
  
 - Linear regresion model
 - Multiple linear regression model
-- Polynomial regression model
+- Polynomial regression model  
 - Non-linear regression analysis     
