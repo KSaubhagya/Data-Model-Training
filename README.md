@@ -1,4 +1,4 @@
-#  Data Model Training Jupitor Notebook / colab
+#  Data Model Training Jupitor Notebook /colab
 - Linear regression model 
 - Multiple linear regression model
 - Polynomial regression model
